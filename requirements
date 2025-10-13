@@ -1,5 +1,5 @@
+streamlit 
 cv2
-numpy
-streamlit
+numpy 
 requests
 tempfile
