@@ -1,7 +1,7 @@
-streamlit
-numpy
 opencv-python-headless
 opencv-python==4.8.1.78
+streamlit
+numpy
 requests
 tempfile
 
