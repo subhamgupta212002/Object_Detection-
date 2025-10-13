@@ -1,8 +1,8 @@
 import streamlit as st
-import cv2
 import numpy as np
 import requests
 import tempfile
+import cv2
 
 
 
@@ -93,4 +93,5 @@ if uploaded_file:
         with col2:
             st.image(img_rgb, caption="Detection Result", use_container_width=True)
     
+
 
