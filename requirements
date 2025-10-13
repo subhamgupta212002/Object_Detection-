@@ -1,3 +1,5 @@
 cv2
 numpy
 streamlit
+requests
+tempfile
