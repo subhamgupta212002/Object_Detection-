@@ -1,5 +1,7 @@
 opencv-python-headless
 opencv-python==4.8.1.78
+opencv
+cv2
 streamlit
 numpy
 requests
