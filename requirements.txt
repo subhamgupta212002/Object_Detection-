@@ -1,8 +1,7 @@
 streamlit
 numpy
 opencv-python-headless
-opencv
-cv2
+opencv-python==4.8.1.78
 requests
 tempfile
 
